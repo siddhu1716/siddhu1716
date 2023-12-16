@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **AI Research Intern position**
 
-- 👨‍💻 Read my articles on GFG [https://auth.geeksforgeeks.org/user/shivanampalli/articles](https://auth.geeksforgeeks.org/user/shivanampalli/articles)
+- 👨‍💻 Read my articles on GFG [Articles]https://auth.geeksforgeeks.org/user/shivanampalli/articles)
 
 - 📝 I regularly write articles on **ML and Web development**
 
 - 📫 How to reach me **shivanampalli@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bv8c4Be2dBAaseUwmgcJ1WzdtDrBFJn0/view?usp=share_link](https://rb.gy/pxe10a)
+- 📄 Know about my experiences [Resume](https://rb.gy/pxe10a)
 
 - ⚡ Fun fact **if the code works well donot change it**
 
