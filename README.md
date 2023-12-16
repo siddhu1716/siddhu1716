@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **AI Research Intern position**
 
-- 👨‍💻 Read my articles on GFG [Articles]https://auth.geeksforgeeks.org/user/shivanampalli/articles)
+- 👨‍💻 Read my articles on GFG [Articles](https://rb.gy/0fg2z4)
 
 - 📝 I regularly write articles on **ML and Web development**
 
