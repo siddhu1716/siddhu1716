@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shivanampalli@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://rb.gy/pxe10a](https://drive.google.com/file/d/1q84P4uFjl6jfLfWStKb3EOSn6UYiHGYn/view?usp=share_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q84P4uFjl6jfLfWStKb3EOSn6UYiHGYn/view?usp=share_link)
 
 - ⚡ Fun fact **if the code works well donot change it**
 
