@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhu1716&label=Profile%20views&color=0e75b6&style=flat" alt="siddhu1716" /> </p>
 
-- 🔭 I’m currently working as **an intern**
+- 🔭 I’m currently working as **Research intern**
 
-- 🌱 I’m currently working on **CNN,LSTM,YOLO**
+- 🌱 I’m currently working on **CNN,YOLOv9,OCR**
 
 - 👯 I’m looking to collaborate on **AI & ML Projects**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shivanampalli@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q84P4uFjl6jfLfWStKb3EOSn6UYiHGYn/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1q84P4uFjl6jfLfWStKb3EOSn6UYiHGYn/view?usp=share_link](https://drive.google.com/file/d/1SP9w7NrdE5HZ0kQ4boAV-IGBfY1XCJty/view?usp=sharing))
 
 - ⚡ Fun fact **if the code works well donot change it**
 
