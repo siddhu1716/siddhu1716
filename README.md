@@ -20,10 +20,7 @@
 
 - 📫 How to reach me **shivanampalli@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H_ZA4J029-gKRDAyGb5Qg_0cChe-JugI/view?usp=share_link)
-))
-
-- ⚡ Fun fact **if the code works well donot change it**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iWZ4jniiPP76K1X_BqPHwWK42HblFyuy/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
