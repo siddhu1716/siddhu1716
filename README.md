@@ -6,21 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhu1716&label=Profile%20views&color=0e75b6&style=flat" alt="siddhu1716" /> </p>
 
-- 🔭 I’m currently working as **Research intern**
+- 🔭 I’m currently working as **Machine Learning Engineer**
 
-- 🌱 I’m currently working on **CNN,YOLOv9,OCR**
+- 🌱 I’m currently working on **Model optimization , inferencing**
 
-- 👯 I’m looking to collaborate on **AI & ML Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects , Hackathons**
 
-- 🤝 I’m looking for help with **AI Research Intern position**
+- 🤝 I’m looking for help with **ML Engineer, AI Engineer Positions**
 
 - 👨‍💻 Read my articles on GFG [Articles](https://rb.gy/0fg2z4)
 
-- 📝 I regularly write articles on **ML and Web development**
+- 📝 I regularly write articles on **Machien Learning and Web development**
 
 - 📫 How to reach me **shivanampalli@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iWZ4jniiPP76K1X_BqPHwWK42HblFyuy/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jo2YWB8mLIPAmIkKETEVFI7-UvvjF-_v/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
