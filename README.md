@@ -8,19 +8,17 @@
 
 - 🔭 I’m currently working as **Machine Learning Engineer**
 
-- 🌱 I’m currently working on **Model optimization , inferencing**
+- 🌱 I’m currently working on **Model optimization , Applied AI**
 
 - 👯 I’m looking to collaborate on **Open Source Projects , Hackathons**
 
 - 🤝 I’m looking for help with **ML Engineer, AI Engineer Positions**
 
-- 👨‍💻 Read my articles on GFG [Articles](https://rb.gy/0fg2z4)
-
-- 📝 I regularly write articles on **Machien Learning and Web development**
+- 📝 I regularly write articles on **Machien Learning**
 
 - 📫 How to reach me **shivanampalli@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jo2YWB8mLIPAmIkKETEVFI7-UvvjF-_v/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fIt22-5jdO7aXxIO66JNWgXV_WIuXTN4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
