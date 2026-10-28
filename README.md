@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhu1716&label=Profile%20views&color=0e75b6&style=flat" alt="siddhu1716" /> </p>
 
-- 🔭 I’m currently working as **Machine Learning Engineer**
+- 🔭 I’m currently working as **Senior Machine Learning Engineer**
 
 - 🌱 I’m currently working on **Model optimization , Applied AI**
 
